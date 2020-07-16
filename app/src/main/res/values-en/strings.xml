@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PowerTile</string>
+    <string name="power_tile_label">Power</string>
+    <string name="have_you_root">Cannot block, have you root?</string>
+</resources>

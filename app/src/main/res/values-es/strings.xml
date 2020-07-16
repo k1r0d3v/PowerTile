@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PowerTile</string>
+    <string name="power_tile_label">Apagar</string>
+    <string name="have_you_root">No se ha podido bloquear, tiene acceso a superusuario?</string>
+</resources>

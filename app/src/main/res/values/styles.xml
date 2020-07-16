@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PowerPopupTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/PowerPopupTheme.Animations</item>
+    </style>
+
+    <style name="PowerPopupTheme.Animations">
+        <item name="android:windowEnterAnimation">@anim/enter_from_right</item>
+        <item name="android:windowExitAnimation">@anim/exit_to_left</item>
+    </style>
+</resources>
